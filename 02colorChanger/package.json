@@ -1,5 +1,5 @@
 {
-  "name": "01vitereactapp",
+  "name": "02colorchanger",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,7 +10,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "01vitereactapp": "file:",
+    "02colorchanger": "file:",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
   },
