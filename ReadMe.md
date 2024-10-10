@@ -30,3 +30,16 @@ Diffing of lists is performed using keys. Keys should be "stable, predictable, a
 
 
 ```
+
+```
+User Context Notes
+
+
+
+import React, { createContext } from "react";
+
+const UserContext = React.createContext();
+
+export default UserContext;
+
+```
