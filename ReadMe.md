@@ -43,3 +43,18 @@ const UserContext = React.createContext();
 export default UserContext;
 
 ```
+
+```
+Context Notes
+
+import { createContext, useContext } from "react";
+
+export const TodoContext = createContext({});
+
+export const useTodoContext = () => {
+  return useContext(TodoContext);
+};
+
+export const TodoContextProvider = TodoContext.Provider;
+
+```
