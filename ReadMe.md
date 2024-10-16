@@ -91,3 +91,10 @@ createEntityAdapter: generates a set of reusable reducers and selectors to manag
 The createSelector utility from the Reselect library, re-exported for ease of use.
 
 ```
+
+```
+MegaBlog -
+
+npm i @reduxjs/toolkit react-redux react-router-dom appwrite @tinymce/tinymce-react html-react-parser react-hook-form
+
+```
